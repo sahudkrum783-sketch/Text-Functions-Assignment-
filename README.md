@@ -122,3 +122,9 @@ Tasks included:
 **Text Functions Assignment.xlsx**
 Contains all questions, sample data, formulas, and solutions.
 
+
+## Author 
+
+Anushka Sahu
+
+🔗 LinkedIn: https://www.linkedin.com/in/anushkasahu783/
